@@ -110,4 +110,4 @@ int main(){
     exibirMapa(mapa, posX, posY);
    
     return 0;
-}
+} 

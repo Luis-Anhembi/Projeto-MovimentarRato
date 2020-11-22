@@ -1,5 +1,5 @@
-# Projeto-MovimentarRato
-Este projeto faz parte da avaliação da disciplina de Técnicas de Programação da Universidade Anhembi Morumbi
+/*Projeto-MovimentarRato*/
+
 
 #include <iostream>
 #include <windows.h>
